@@ -8,11 +8,11 @@
   * bullets - p1 和 p2 的子弹。
   * backgrounds - 两个背景图（开始页面startPage、正式游戏背景gameBackground）。
     * startPage 上传文件夹，因为每张都挺好看的，都可以被使用，五选一即可。
+  * music - 背景音乐
 * 未更新完：
   * UIs - 开始界面的 “start”、“exit”、“游戏名” 三部分的图片，“VS” 的图片，字母图片，人物的血量图片（如果能找到）。
     * 其中 “start”、“exit” 是图片形式的按钮。
     * 字母图片：某个人物被击中的时候，屏幕上出现的字母提醒图片。
-  * music - 音效
 
 资源网址：
 * B站 - among us 资源分享 + Photoshop 作图
