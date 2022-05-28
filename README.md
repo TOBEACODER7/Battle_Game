@@ -15,5 +15,7 @@
 
 资源网址：
 * B站 - among us 资源分享 + Photoshop 作图
+* among us 游戏自截
+* bgm - Among Us - Moondai（网易云音乐）
 * among us 部分音效 - 语音维基  https://voicewiki.cn/wiki/%E5%9C%A8%E6%88%91%E4%BB%AC%E4%B9%8B%E4%B8%AD （不用挂梯子）
 * 人气免费资源 - Asset Store  https://assetstore.unity.com/top-assets/top-free （挂梯子进会流畅一点）
