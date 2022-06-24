@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LocalTest", "LocalTest.vcxproj", "{069283C6-DDDC-4BD1-BB1A-B5C5EB5E55A6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Happy_Game_Test", "..\Happy_Game_Test\Happy_Game_Test.vdproj", "{8B41AA3E-BB51-437C-87D2-2C6479C3E0B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{069283C6-DDDC-4BD1-BB1A-B5C5EB5E55A6}.Debug|x64.ActiveCfg = Debug|x64
+		{069283C6-DDDC-4BD1-BB1A-B5C5EB5E55A6}.Debug|x64.Build.0 = Debug|x64
+		{069283C6-DDDC-4BD1-BB1A-B5C5EB5E55A6}.Debug|x86.ActiveCfg = Debug|Win32
+		{069283C6-DDDC-4BD1-BB1A-B5C5EB5E55A6}.Debug|x86.Build.0 = Debug|Win32
+		{069283C6-DDDC-4BD1-BB1A-B5C5EB5E55A6}.Release|x64.ActiveCfg = Release|x64
+		{069283C6-DDDC-4BD1-BB1A-B5C5EB5E55A6}.Release|x64.Build.0 = Release|x64
+		{069283C6-DDDC-4BD1-BB1A-B5C5EB5E55A6}.Release|x86.ActiveCfg = Release|Win32
+		{069283C6-DDDC-4BD1-BB1A-B5C5EB5E55A6}.Release|x86.Build.0 = Release|Win32
+		{8B41AA3E-BB51-437C-87D2-2C6479C3E0B4}.Debug|x64.ActiveCfg = Debug
+		{8B41AA3E-BB51-437C-87D2-2C6479C3E0B4}.Debug|x86.ActiveCfg = Debug
+		{8B41AA3E-BB51-437C-87D2-2C6479C3E0B4}.Release|x64.ActiveCfg = Release
+		{8B41AA3E-BB51-437C-87D2-2C6479C3E0B4}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F238DCA0-BEDA-45BE-9249-3C549D137279}
+	EndGlobalSection
+EndGlobal
