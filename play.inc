@@ -1,2 +1,0 @@
-extrn iface_mouseEvent:proc
-extrn iface_keyboardEvent:proc
