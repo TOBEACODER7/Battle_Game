@@ -1,5 +1,9 @@
 # Battle_Game
 汇编小组游戏
+## WARNING  
+DO NOT COPY!  
+DO NOT USE TO FINISH YOUR WORK  
+You can use some parts of this project but please don`t copy directly!  
 ## 资源
 资源放置在 resources 和 music 文件夹中。
 * 已更新完：
